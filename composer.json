@@ -1,0 +1,16 @@
+{
+    "name": "usstatedept/js-cookie-manager",
+    "type": "wordpress-plugin",
+    "description" : "Plugin to manage cookies via javascript",
+    "authors": [
+        {
+            "name": "Office of Design, Bureau of International Information Programs",
+            "email": "reganta@america.gov"
+        }
+    ],
+    "minimum-stability": "stable",
+    "version": "1.0",
+    "require": {
+       "composer/installers": "~1.0"
+    }
+}
