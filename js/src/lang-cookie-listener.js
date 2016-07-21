@@ -24,7 +24,7 @@ share.utils.CookieListener = (function ($) {
     }
 
     function onLoadHandler() {
-    	var re = /^\/(fr|es|ru|zh-hans|ar|id|fa|pt-br)\//gi,
+    	var re = /^\/(fr|es|ru|zh-hans|ar|id|fa|pt-br|ur)\//gi,
     	code = re.exec( location.pathname ); 
 
 		// regex will return null if language is english
