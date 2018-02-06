@@ -3,12 +3,12 @@
 
 Plugin Name: 	 JS Cookie Manager
 Description:     This plugin manages cookies via javascript
-Version:         1.1.0
+Version:         1.1.1
 Author:          Terri Regan
 License:         GPL-2.0+
 Text Domain:     america
 Domain Path:     /languages
- 
+
  ************************************************************************************************************/
 
  //* Prevent loading this file directly

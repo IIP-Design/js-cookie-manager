@@ -1,5 +1,5 @@
 {
-    "name": "usstatedept/js-cookie-manager",
+    "name": "iip-design/js-cookie-manager",
     "type": "wordpress-plugin",
     "description" : "Plugin to manage cookies via javascript",
     "authors": [
@@ -9,7 +9,6 @@
         }
     ],
     "minimum-stability": "stable",
-    "version": "1.1.0",
     "require": {
        "composer/installers": "~1.0"
     }
